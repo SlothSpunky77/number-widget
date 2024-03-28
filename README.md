@@ -24,5 +24,6 @@ Row(
 .
 .
 ```
-##Example:
+
+### Example:
 ![image](https://github.com/SlothSpunky77/number-widget/assets/94778190/e83dc652-d0b6-462d-84bd-d99513472007)
