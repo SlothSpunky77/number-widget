@@ -3,9 +3,9 @@
 ## Usage:
 ```
 import 'package:number_widget.dart';
-```
-...
-```
+.
+.
+.
 Row(
   children: [
     Expanded(
