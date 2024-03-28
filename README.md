@@ -1,5 +1,5 @@
 # number-widget
-### A simple number widget that you can use to change the number value using '+' and '-'. 
+### A simple number widget to change the value using '+' and '-'. 
 ## Usage:
 ```
 import 'package:number_widget.dart';
