@@ -1,6 +1,7 @@
 # number-widget
 ### A simple number widget to change the value using '+' and '-'. 
 ## Usage:
+### Make sure you edit the import for your theme inside number_widget.dart and make necessary code replacements.
 ```
 import 'package:number_widget.dart';
 .
